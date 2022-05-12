@@ -1,0 +1,20 @@
+.users {
+  border: 5px solid darkred;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: snow;
+}
+
+.posts {
+  border: 5px solid darkolivegreen;
+  padding: 1rem;
+  background-color: #fafff8;
+}
+
+.comments {
+  border: 5px solid goldenrod;
+  padding: 1rem;
+  background-color: #fffaee;
+}
